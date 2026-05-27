@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/altship-hq/safeclone/releases/download/v1.0.0/safeclone_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/altship-hq/safeclone/releases/download/v1.1.0/safeclone_1.1.0_windows_amd64.zip",
             "bin": [
                 "safeclone.exe"
             ],
-            "hash": "682e4f3ee68c6ace8a2c9c435625fd80ff2c5e9e8362e91ac6b0b8e4e86d630b"
+            "hash": "8eaa8584b318fd571a10f57b342b8c1ed7d43c83fa107badfff9dd2f6835b2ed"
         }
     },
     "homepage": "https://github.com/altship-hq/safeclone",
